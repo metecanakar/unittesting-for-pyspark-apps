@@ -1,4 +1,4 @@
-# unittesting-for-pyspark
+# Goal of the Repo
 This repository is to demonstrate how you can use Python unittest and pytest libraries to create unit tests for PySpark DataFrame transformations.
 
 # Repository Structure:
