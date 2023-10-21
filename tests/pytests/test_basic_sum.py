@@ -1,3 +1,4 @@
+"""Basic summation Pytest example"""
 from spark_example_proj.basic_calculations.basic_summation import increment_by_two
 
 

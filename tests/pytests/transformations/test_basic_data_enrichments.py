@@ -1,3 +1,4 @@
+"""Basic data enrichment Pytest example"""
 import datetime
 
 from chispa.dataframe_comparer import assert_df_equality

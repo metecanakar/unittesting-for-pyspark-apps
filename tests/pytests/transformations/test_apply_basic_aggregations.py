@@ -1,3 +1,4 @@
+"""Apply basic aggregations Pytest example"""
 import datetime
 
 from pyspark.sql import SparkSession

@@ -1,3 +1,4 @@
+"""Apply basic aggregations unittest example"""
 import unittest
 import datetime
 
